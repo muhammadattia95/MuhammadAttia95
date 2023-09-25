@@ -8,7 +8,7 @@
 </div>
 <h2 align="left"><i><b>About me </i></b></h2>
 
-- 🌱 Software Engineer with 5+ years of experience.
+- 🌱 Software Engineer with 7+ years of experience.
 
 - 👨‍💻 building software products with scalable and distributed architecture that are easy to evolve and maintain to serve millions of users.
 
