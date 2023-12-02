@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=Software+Engineer+@Careem;Mentor+@Manara)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=Lead+Software+Engineer+@ELM;Mentor+@Manara;Mentor+@Adplist)](https://git.io/typing-svg)
 
 </div>
 <h2 align="left"><i><b>About me </i></b></h2>
