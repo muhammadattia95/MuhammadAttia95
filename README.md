@@ -3,12 +3,12 @@
 
 <div align="center">
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=Lead+Software+Engineer+@ELM;Mentor+@Manara;Mentor+@Adplist)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=Software+Engineer+@Mrsool;Mentor+@Adplist)](https://git.io/typing-svg)
 
 </div>
 <h2 align="left"><i><b>About me </i></b></h2>
 
-- 🌱 Software Engineer with 7+ years of experience.
+- 🌱 Software Engineer with 8+ years of experience.
 
 - 👨‍💻 building software products with scalable and distributed architecture that are easy to evolve and maintain to serve millions of users.
 
